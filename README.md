@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m currently working on developing a 3D-IC placer.
+
+This is set to a private one, but if you have any interest in that, please get in touch with me by email.
+
 <!--
 **ApeachM/ApeachM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
