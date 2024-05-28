@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on developing a 3D-IC placer for OpenROAD project.
+I’m currently working on BAUM DESIGN SYSTEMS CO. for EDA development.
 
 <!--
 **ApeachM/ApeachM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
